@@ -37,5 +37,8 @@ A clean and modern Flutter app that allows users to view and edit their profile 
 ---
 
 ## Screenshots
+<img width="1440" alt="Screenshot 2025-04-21 at 2 02 16 PM" src="https://github.com/user-attachments/assets/ff3b4f4a-3f18-47a8-9131-3b937b8a8abc" />
+<img width="1440" alt="Screenshot 2025-04-21 at 2 02 10 PM" src="https://github.com/user-attachments/assets/fc8e72d8-31c9-4ff6-99b7-a11935d6dcb5" />
+<img width="1440" alt="Screenshot 2025-04-21 at 2 02 24 PM" src="https://github.com/user-attachments/assets/685af582-de4b-4912-baa3-1633975dfcef" />
 
 
