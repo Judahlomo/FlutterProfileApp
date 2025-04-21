@@ -1,16 +1,41 @@
-# flutter_profile_app
+# Flutter Profile App
 
-A new Flutter project.
+A clean and modern Flutter app that allows users to view and edit their profile while toggling between light and dark themes.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Home Screen  
+  - Displays a welcome message.  
+  - Includes a theme toggle button.  
+  - Navigates to the profile screen.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Profile Screen  
+  - Shows a circular profile image.  
+  - Includes editable fields for name and role.  
+  - Save button updates the UI with changes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Theme Switching  
+  - Toggle between light and dark modes dynamically.
+
+---
+
+## Setup & Installation
+
+1. Clone this repository:
+2. Navigate to the project directory
+    cd FlutterProfileApp
+3. Get the dependencies:
+    flutter pub get
+4. Run the app:
+    flutter run
+
+
+> Make sure you have Flutter installed and configured properly.
+
+---
+
+## Screenshots
+
+
